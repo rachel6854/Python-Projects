@@ -1,0 +1,91 @@
+from csv file:
+
+
+
+
+Report: Performance
+Number: 1
+Time: 24 Nov
+Owner: Ricky
+Category: ERP - WA
+PASS
+======================================
+======================================
+﻿Report: Load
+Number: 2
+Time: 24 Nov
+Owner: Lisa
+Category: ERP - SR
+FAIL
+======================================
+======================================
+﻿Report: Stability
+Number: 3
+Time: 24 Nov
+Owner: Ricky
+Category: ERP - WA
+FAIL
+======================================
+======================================
+﻿Report: Performance
+Number: 4
+Time: 25 Nov
+Owner: Ricky
+Category: ERP - 
+FAIL
+======================================
+======================================
+﻿Report: Load
+Number: 5
+Time: 25 Nov
+Owner: Ricky
+Category: ERP - 
+PASS
+======================================
+======================================
+﻿Report: Stability
+Number: 6
+Time: 25 Nov
+Owner: Lisa
+Category: ERP - WA
+PASS
+======================================
+======================================
+﻿from json file:
+
+
+
+
+Report: Regression
+Number: 7
+Time: 25 Nov
+Owner: Lisa
+Category: ST - SU
+PASS
+======================================
+======================================
+﻿Report: Negative
+Number: 8
+Time: 25 Nov
+Owner: Ricky
+Category: AX - 
+PASS
+======================================
+======================================
+﻿Report: Performance
+Number: 9
+Time: 26 Nov
+Owner: Toby
+Category: ERP - WA
+PASS
+======================================
+======================================
+﻿Report: Load
+Number: 10
+Time: 26 Nov
+Owner: Lisa
+Category: ERP - SR
+PASS
+======================================
+======================================
+﻿
